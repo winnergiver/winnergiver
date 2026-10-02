@@ -51,7 +51,7 @@ Backend-разработчик на языке **Go** с базой в виде 
 
 ## Проекты
 
-- Сайт адвокату на React(https://winnergiver.github.io/website/)
+- [Сайт адвокату на React](https://winnergiver.github.io/website/)
 - База данных для школьного сайта на SQL
 - Сайт сервисного центра на HTML и CSS
 
